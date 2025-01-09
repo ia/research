@@ -1,2 +1,4 @@
-# research
-notes &amp; drafts about current or future research
+# Research
+
+This repo contains notes & drafts about current or future research.
+
