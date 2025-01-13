@@ -4,6 +4,7 @@
 ## Projects
 
 - [cryptsetup](https://gitlab.com/cryptsetup/cryptsetup)
+- libfvde
 
 
 ## Papers
