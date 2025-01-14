@@ -9,6 +9,7 @@
 
 ## Papers
 
+- LUKS2 format specification
 - LUKS1 format specification
 
 
