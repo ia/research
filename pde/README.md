@@ -10,7 +10,7 @@
 ## Papers
 
 - [LUKS2 format specification](https://gitlab.com/cryptsetup/LUKS2-docs/-/raw/main/luks2_doc_wip.pdf)
-- LUKS1 format specification
+- [LUKS1 format specification](https://www.kernel.org/pub/linux/utils/cryptsetup/LUKS_docs/on-disk-format.pdf)
 
 
 ## Talks
