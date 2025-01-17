@@ -15,7 +15,7 @@
 
 ## Docs
 
-- https://ss64.com/mac/hdiutil.html
+- [MacOS `hdiutil` man page](https://ss64.com/mac/hdiutil.html)
 
 
 ## Talks
