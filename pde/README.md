@@ -16,6 +16,7 @@
 ## Docs
 
 - [MacOS `hdiutil` man page](https://ss64.com/mac/hdiutil.html)
+- FileVault2 format specification by libfvde project
 
 
 ## Talks
