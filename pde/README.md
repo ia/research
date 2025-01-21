@@ -17,7 +17,7 @@
 
 - [MacOS `hdiutil` man page](https://ss64.com/mac/hdiutil.html)
 - [FileVault2 format specification by `libfvde` project](https://github.com/libyal/libfvde/blob/main/documentation/FileVault%20Drive%20Encryption%20(FVDE).asciidoc)
-- FileVault2 header specification by `cryptsetup` project
+- [FileVault2 header specification by `cryptsetup` project](https://gitlab.com/cryptsetup/cryptsetup/-/blob/main/lib/fvault2/fvault2.c?ref_type=heads#L56)
 
 
 ## Talks
