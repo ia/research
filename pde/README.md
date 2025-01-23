@@ -22,6 +22,7 @@
 
 ## Talks
 
+https://www.youtube.com/watch?v=doGzuOYCNJE
 - [Data integrity protection with cryptsetup tools what is the Linux dm-integrity module and why we extended dm-crypt to use authenticated encryption by Milan Broz (FOSDEM 2018)](https://www.youtube.com/watch?v=cJuX-9Enubo)
 
 
