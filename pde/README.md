@@ -22,8 +22,8 @@
 
 ## Talks
 
-- [Unlocking FileVault - An analysis of Apple's encrypted disk storage system](https://www.youtube.com/watch?v=doGzuOYCNJE)
-- [The future of disk encryption with LUKS2 by Milan Brož and Ondřej Kozina](https://www.youtube.com/watch?v=XmFUb6qP9M0)
+- [Unlocking FileVault - An analysis of Apple's encrypted disk storage system (23C3)](https://www.youtube.com/watch?v=doGzuOYCNJE)
+- [The future of disk encryption with LUKS2 by Milan Brož and Ondřej Kozina (DevConf 2016)](https://www.youtube.com/watch?v=XmFUb6qP9M0)
 - [Data integrity protection with cryptsetup tools what is the Linux dm-integrity module and why we extended dm-crypt to use authenticated encryption by Milan Broz (FOSDEM 2018)](https://www.youtube.com/watch?v=cJuX-9Enubo)
 
 
